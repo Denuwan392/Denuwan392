@@ -1,9 +1,6 @@
 # Hi, I'm Denuwan 👋
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denuwan392&theme=highcontrast)
-
-
-
+## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=c&logoColor=white)
@@ -11,6 +8,20 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Denuwan392&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denuwan392&theme=highcontrast)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Denuwan392&color=brightgreen)
+
+
+
+
+
+
 
 
 <!--
