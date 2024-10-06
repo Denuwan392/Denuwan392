@@ -1,4 +1,9 @@
 # Hi, I'm Denuwan 👋
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denuwan392&theme=highcontrast)
+
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=c&logoColor=white)
