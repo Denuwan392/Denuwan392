@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Denuwan392&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=radical)<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denuwan392&theme=highcontrast)
 
 
