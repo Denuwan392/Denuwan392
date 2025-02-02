@@ -14,28 +14,41 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Denuwan392&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=radical)<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denuwan392&theme=highcontrast)
 
+### Profile Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Denuwan392&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Denuwan392&color=brightgreen)
+---
 
+### Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+---
 
+### GitHub Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denuwan392&theme=highcontrast" alt="GitHub Streak" />
+</div>
 
+---
 
+### Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Denuwan392&color=brightgreen" alt="Profile Views" />
+</div>
 
-
+---
 
 <!--
 **Denuwan392/Denuwan392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
