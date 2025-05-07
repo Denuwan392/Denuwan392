@@ -1,60 +1,62 @@
-# Hi, I'm Denu1 👋
+# 👋 Hi, I'm Denu1!
+
+I'm a passionate developer who loves building things with code. This is my personal GitHub profile where I share some of my work and progress.
+
+---
 
 ## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3E7A22?style=for-the-badge&logo=python&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-3E7A22?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-### Profile Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denuwan392&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Denuwan392&show_icons=true&theme=dracula" alt="GitHub Stats" style="max-width:100%; margin-bottom: 1rem;" />
 </div>
 
----
-
-### Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
----
-
-### GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denuwan392&theme=highcontrast" alt="GitHub Streak" />
+<div align="center" style="margin-top: 1rem;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denuwan392&theme=dark" alt="GitHub Streak" />
 </div>
 
----
-
-### Profile Views
-<div align="center">
+<div align="center" style="margin-top: 1rem;">
   <img src="https://komarev.com/ghpvc/?username=Denuwan392&color=brightgreen" alt="Profile Views" />
 </div>
 
 ---
 
-<!--
-**Denuwan392/Denuwan392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/denuwanwijesinghe"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+  <a href="https://medium.com/@ddenuwan38"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
+</div>
+
+---
+
+## 🌱 What I'm Up To
+
+- 💻 Currently working on full-stack web applications.
+- 🚀 Learning more about data science and machine learning.
+- 👯 Open to collaborating on cool open-source projects.
+- 💬 Ask me about Python, Django, or PostgreSQL!
+- 📫 Reach out via [LinkedIn](https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8) or email at ddenuwan38@gmail.com
