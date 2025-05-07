@@ -7,15 +7,9 @@ I’m an AI enthusiast, full-stack developer, and digital creator currently purs
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/denuwanwijesinghe">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@ddenuwan38">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  <a href="https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/denuwanwijesinghe"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+  <a href="https://medium.com/@ddenuwan38"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
 </div>
 
 ---
@@ -24,9 +18,9 @@ I’m an AI enthusiast, full-stack developer, and digital creator currently purs
 
 With over 5 years of experience in digital content creation and software development, I bridge creativity with technology. My work spans from designing engaging brand visuals to developing scalable web applications and exploring the frontiers of AI and machine learning.
 
-🔹 **AI & Machine Learning**: Building AI agents, personal travel assistants, and experimenting with LangGraph and GenAI tools  
-🔹 **Web Development**: Backend-focused developer using Python, Django, REST APIs, and databases like PostgreSQL  
-🔹 **Digital Content Creation**: Branding, motion graphics, UI/UX assets using Photoshop, Illustrator, and After Effects  
+🔹 **AI & Machine Learning**: Building AI agents, personal travel assistants, and experimenting with LangGraph and GenAI tools.  
+🔹 **Web Development**: Backend-focused developer using Python, Django, REST APIs, and databases like PostgreSQL.  
+🔹 **Digital Content Creation**: Branding, motion graphics, UI/UX assets using Photoshop, Illustrator, and After Effects.
 
 If you're looking to collaborate or discuss AI, web tech, or creative projects — let’s connect!
 
@@ -34,24 +28,11 @@ If you're looking to collaborate or discuss AI, web tech, or creative projects �
 
 ## 🔧 Technologies & Tools
 
-Here's a list of languages, frameworks, and tools I use most often:
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-3E7A22?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,php,c,pyqt,html,css,kotlin,mysql,postgres,ai" style="max-width: 100%; height: auto;" />
 </div>
 
-> *Icons are rendered using [shields.io](https://shields.io/) and [simple-icons](https://simpleicons.org/)*
+> *Icons provided by [Skillicons.dev](https://skillicons.dev)*
 
 ---
 
@@ -74,4 +55,4 @@ Here's a list of languages, frameworks, and tools I use most often:
 ## 🚀 Let's Build Something Together!
 
 Open to collaborations on AI, web development, or creative tech projects.  
-📩 Reach me via [LinkedIn](https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8) or email at ddenuwan38@gmail.com
+📩 Reach me via [LinkedIn](https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8) or email at ddenuwan38@gmail.com  
