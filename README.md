@@ -1,58 +1,90 @@
-# 👋 Hi, I'm Denuwan Wijesinghe
-
-I’m an AI enthusiast, full-stack developer, and digital creator currently pursuing a BSc (Hons) in Artificial Intelligence at the University of Moratuwa. Driven by innovation, I love building intelligent systems and impactful web solutions.
-
----
-
-## 🔗 Connect With Me
+<!-- 
+  ✨ Modern GitHub README by Denuwan Wijesinghe
+  Theme: Minimalist + Tech-Forward | Inspired by trending AI dev profiles
+-->
 
 <div align="center">
-  <a href="https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/denuwanwijesinghe"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-  <a href="https://medium.com/@ddenuwan38"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
+  
+  <!-- Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=43C6FD&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%7C+Full-Stack+Builder+%7C+Digital+Creator" alt="Typing SVG" />
+  
+  <p>
+    🎓 BSc (Hons) AI @ University of Moratuwa | 🤖 Building GenAI Agents & Scalable Web Systems | 🇱🇰 Sri Lanka
+  </p>
+
+  <!-- Badges -->
+  <a href="https://github.com/Denuwan392">
+    <img src="https://img.shields.io/github/followers/Denuwan392?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+  <a href="https://www.linkedin.com/in/denuwan-wijesinghe-2423971b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ddenuwan38@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://denuwan392.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+
 </div>
 
 ---
 
-## 🧠 Who I Am
-
-With over 5 years of experience in digital content creation and software development, I bridge creativity with technology. My work spans from designing engaging brand visuals to developing scalable web applications and exploring the frontiers of AI and machine learning.
-
-🔹 **AI & Machine Learning**: Building AI agents, personal travel assistants, and experimenting with LangGraph and GenAI tools.  
-🔹 **Web Development**: Backend-focused developer using Python, Django, REST APIs, and databases like PostgreSQL.  
-🔹 **Digital Content Creation**: Branding, motion graphics, UI/UX assets using Photoshop, Illustrator, and After Effects.
-
-If you're looking to collaborate or discuss AI, web tech, or creative projects — let’s connect!
+### 🌟 About Me
+> **Innovative AI undergraduate** (2nd Year, UoM) blending **5+ years of digital creation** with **production-grade AI engineering**.  
+> Currently building **agentic workflows** at **WIWIS.AI** 🇱🇰 — focused on **RAG**, **LangGraph**, and **MLOps** to bridge research and real-world impact.  
+> Passionate about **AI for local languages**, **IoT integration**, and **democratizing tech through workshops**.
 
 ---
 
-## 🔧 Technologies & Tools
+### 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|-----------|
+| **[Smart Transit Companion](https://github.com/Denuwan392)** | 🚌 **SLAIC 2025 Finalist**: Multilingual (Sinhala/Tamil/English) AI transport assistant with real-time tracking | `LangGraph` `Gemini` `ChromaDB` `FastAPI` `Node.js` |
+| **[WEISION](https://github.com/Denuwan392)** | ⚖️ **SLAAI 2025 Finalist**: AI-powered weighing & billing system using YOLOv8 + Raspberry Pi | `YOLOv8` `OpenCV` `Raspberry Pi` `Django` |
+| **AI Travel Itinerary Generator** | 🧳 Capstone project: Personalized Sri Lanka tours via GenAI + RAG | `LangGraph` `Gemini` `ChromaDB` |
+
+---
+
+### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,php,c,pyqt,html,css,kotlin,mysql,postgres,ai" style="max-width: 100%; height: auto;" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,postgres,mysql,git,arduino,raspberrypi,opencv,mlflow,airflow" />
 </div>
 
-> *Icons provided by [Skillicons.dev](https://skillicons.dev)*
+- **AI/ML**: `LangGraph` • `RAG` • `Gemini` • `OpenCV` • `Scikit-learn` • `XGBoost`
+- **MLOps**: `MLflow` • `PySpark` • `Airflow` • `ChromaDB`
+- **Web**: `Django` • `FastAPI` • `REST` • `Tailwind` • `JavaScript`
+- **IoT**: `Arduino` • `ESP32` • `Raspberry Pi` • `Sensors`
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Analytics
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1rem; margin-top: 1rem;">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Denuwan392&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  </div>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=onedark" alt="Top Languages" />
-  </div>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Denuwan392&color=brightgreen" alt="Profile Views" />
-  </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denuwan392&show_icons=true&theme=onedark&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=onedark&hide_border=true" />
 </div>
 
 ---
 
-## 🚀 Let's Build Something Together!
+### 🏆 Certifications & Recognition
+- **Production-Ready ML Systems** (2025) • **Kaggle x Google GenAI Intensive** (Apr 2025)
+- **Finalist**: Sri Lanka AI Challenge 2025 • Best AI Project Awards 2025 (SLAAI)
+- **Workshop Lead**: IoT/Arduino sessions for 100+ students (2025)
 
-Open to collaborations on AI, web development, or creative tech projects.  
-📩 Reach me via [LinkedIn](https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8) or email at ddenuwan38@gmail.com  
+---
+
+### 📬 Let's Connect!
+**I’m open to:**  
+✅ AI/ML Engineering Collaborations  
+✅ Web Development Projects  
+✅ Speaking Engagements & Tech Workshops  
+
+**Reach me at**:  
+<ddenuwan38@gmail.com> | [+94 77 50 83 549](tel:+94775083549) | [LinkedIn](https://linkedin.com/in/denuwan-wijesinghe-2423971b8)
+
+<div align="center">
+  <sub>Made with ❤️ and <code>LangGraph</code> • Inspired by Sri Lankan innovation 🇱🇰</sub>
+</div>
