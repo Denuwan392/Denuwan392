@@ -6,7 +6,7 @@
 <div align="center">
   
   <!-- Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=43C6FD&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%7C+Full-Stack+Builder+%7C+Digital+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=400&color=43C6FD&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Building+Agentic+Workflows;LangGraph+%7C+RAG+%7C+MLOps;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
   
   <p>
     🎓 BSc (Hons) AI @ University of Moratuwa | 🤖 Building GenAI Agents & Scalable Web Systems | 🇱🇰 Sri Lanka
