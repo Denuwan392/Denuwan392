@@ -1,8 +1,3 @@
-<!-- 
-  ✨ Modern GitHub README by Denuwan Wijesinghe
-  Theme: Minimalist + Tech-Forward | Inspired by trending AI dev profiles
--->
-
 <div align="center">
   
   <!-- Header -->
@@ -86,5 +81,5 @@
 <ddenuwan38@gmail.com> | [+94 77 50 83 549](tel:+94775083549) | [LinkedIn](https://linkedin.com/in/denuwan-wijesinghe-2423971b8)
 
 <div align="center">
-  <sub>Made with ❤️ and <code>LangGraph</code> • Inspired by Sri Lankan innovation 🇱🇰</sub>
+  <sub>AI researcher • Speaker • Sri Lankan engineer 🇱🇰</sub>
 </div>
