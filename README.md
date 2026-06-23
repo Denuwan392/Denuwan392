@@ -1,105 +1,265 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=28A745&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Building+Agentic+Workflows;LangGraph+%7C+RAG+%7C+MLOps;From+Sri+Lanka" alt="Typing SVG" />
-</div>
-
 <h1 align="center">Denuwan Wijesinghe</h1>
-<h3 align="center">AI Engineer | Building Production-Grade Agentic Systems & GenAI Solutions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/denuwan-wijesinghe-2423971b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ddenuwan38@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://denuwan392.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/Denuwan392"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <strong>AI Engineer • GenAI Developer • AI Undergraduate at University of Moratuwa</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Denuwan392&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  Building production-grade Agentic AI Systems, RAG Pipelines, and Intelligent Applications.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Denuwan392">
+    <img src="https://img.shields.io/github/followers/Denuwan392?style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/denuwan-wijesinghe-2423971b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ddenuwan38@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://denuwan392.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Denuwan392&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### About Me
-I am an **AI & Machine Learning Engineer** currently building scalable, production-ready AI systems at **WIWIS.AI**. I specialize in designing **Agentic Workflows**, **Retrieval-Augmented Generation (RAG)** pipelines, and **Multi-Agent Systems** using LangGraph and modern LLMs. 
+## About Me
 
-With a strong foundation in full-stack development (Django, FastAPI) and edge computing (IoT, Raspberry Pi), I bridge the gap between cutting-edge AI research and real-world, deployable applications. My ultimate mission is to democratize AI, particularly for low-resource languages, and build impactful AI startups.
+I'm **Denuwan Wijesinghe**, a second-year undergraduate pursuing a **BSc (Hons) in Artificial Intelligence** at the **University of Moratuwa** and currently working as an **AI Engineer at WIWIS.AI**.
 
-### Current Focus
-- Architecting **Multi-Agent Systems** and autonomous workflows using **LangGraph**.
-- Optimizing **RAG pipelines** for high-accuracy, domain-specific knowledge retrieval.
-- Deploying **MLOps** pipelines using MLflow, Airflow, and Docker for scalable model serving.
-- Developing **AI for Local Languages** (Sinhala/Tamil) NLP models and applications.
+I build intelligent systems powered by **Large Language Models**, **Agentic Workflows**, **Retrieval-Augmented Generation (RAG)**, and modern **MLOps** practices. My focus is on transforming cutting-edge AI research into scalable, real-world applications.
 
-### Experience
-**AI & ML Engineer (Contract)** | *WIWIS.AI, Sri Lanka*  
-Building enterprise-grade AI solutions, focusing on agentic workflows, LLM integration, and scalable backend architectures.
+I am particularly interested in developing AI solutions for **Sinhala and Tamil languages**, advancing **Agentic AI Systems**, and creating impactful technologies that solve practical problems.
 
-**Technical Speaker & Workshop Lead** | *Various Institutions*  
-Designing and delivering hands-on workshops on IoT, Arduino, and AI fundamentals for 100+ students, bridging the gap between hardware and software.
+---
 
-### Featured Projects
+## Quick Facts
 
-**Smart Transit Companion** | *SLAIC 2025 Finalist*  
-- Developed a multilingual (Sinhala, Tamil, English) AI transport assistant with real-time tracking.
-- Architected an agentic workflow using **LangGraph** and **Gemini**, backed by **ChromaDB** for context retrieval.
-- Built a high-performance backend using **FastAPI** and **Node.js**.
-- **Stack:** `LangGraph` `Gemini` `ChromaDB` `FastAPI` `Node.js`
+🎓 BSc (Hons) Artificial Intelligence — University of Moratuwa
 
-**WEISION** | *SLAAI 2025 Finalist*  
-- Engineered an AI-powered computer vision system for automated weighing and billing.
-- Implemented real-time object detection and tracking using **YOLOv8** and **OpenCV**.
-- Deployed the edge AI solution on **Raspberry Pi** with a **Django** backend.
-- **Stack:** `YOLOv8` `OpenCV` `Raspberry Pi` `Django` `Edge AI`
+💼 AI Engineer — WIWIS.AI
 
-**AI Travel Itinerary Generator** | *GenAI Platform*  
-- Built a personalized travel planning platform for Sri Lanka using GenAI and RAG.
-- Utilized **LangGraph** to manage complex, multi-step itinerary generation workflows.
-- Integrated **ChromaDB** for storing and retrieving localized points of interest.
-- **Stack:** `LangGraph` `Gemini` `ChromaDB` `RAG`
+🏆 SLAIC 2025 Finalist
 
-### Tech Stack
+🏆 SLAAI 2025 Finalist
+
+🌏 Passionate about AI for Low-Resource Languages
+
+🚀 Building Agentic AI Systems & GenAI Applications
+
+---
+
+## Current Focus
+
+- Multi-Agent Systems using LangGraph
+- Retrieval-Augmented Generation (RAG)
+- LLM Engineering & AI Agents
+- MLOps & Production AI Deployment
+- AI Applications for Sinhala & Tamil Languages
+- Computer Vision & Edge AI Solutions
+
+---
+
+## Experience
+
+### AI Engineer | WIWIS.AI
+*2025 – Present*
+
+Designing and deploying production-ready AI systems focused on:
+
+- Agentic Workflows
+- RAG Architectures
+- LLM Integrations
+- AI Product Development
+- Backend Engineering
+- Scalable AI Deployments
+
+### Technical Speaker & Workshop Lead
+
+Conducted hands-on workshops and technical sessions covering:
+
+- Artificial Intelligence Fundamentals
+- Internet of Things (IoT)
+- Arduino Programming
+- Sensor Integration
+- AI & Emerging Technologies
+
+Delivered sessions to more than **100 students** across schools and institutions.
+
+---
+
+## Featured Projects
+
+### Smart Transit Companion
+**Sri Lanka AI Challenge (SLAIC) 2025 Finalist**
+
+A multilingual AI-powered transportation assistant supporting Sinhala, Tamil, and English with route planning, intelligent recommendations, and real-time transport assistance.
+
+**Tech Stack**
+
+`LangGraph` `Gemini` `FastAPI` `Node.js` `ChromaDB` `RAG`
+
+---
+
+### WEISION
+**SLAAI 2025 Finalist**
+
+An intelligent computer vision system that automates weighing and billing operations using edge AI and real-time object detection.
+
+**Tech Stack**
+
+`YOLOv8` `OpenCV` `Raspberry Pi` `Django` `Edge AI`
+
+---
+
+### AI Travel Itinerary Generator
+
+A GenAI-powered travel planning platform that creates personalized travel experiences using agentic workflows and retrieval-augmented generation.
+
+**Tech Stack**
+
+`LangGraph` `Gemini` `ChromaDB` `FastAPI` `RAG`
+
+---
+
+## Research Interests
+
+- Agentic AI Systems
+- Multi-Agent Collaboration
+- Retrieval-Augmented Generation
+- AI for Low-Resource Languages
+- Edge AI
+- Human-AI Interaction
+- Computer Vision
+- LLM Evaluation & Optimization
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,docker,git,linux,opencv,arduino,raspberrypi" />
+
+</div>
+
+### Artificial Intelligence
+
+`LangGraph` • `LangChain` • `Gemini` • `RAG` • `YOLOv8` • `OpenCV` • `Scikit-Learn` • `XGBoost`
+
+### MLOps & Data Engineering
+
+`MLflow` • `Apache Airflow` • `PySpark` • `ChromaDB` • `PostgreSQL`
+
+### Backend Development
+
+`FastAPI` • `Django` • `REST APIs` • `JavaScript`
+
+### IoT & Edge Computing
+
+`Arduino` • `ESP32` • `Raspberry Pi` • `Sensor Integration`
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Denuwan392&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Denuwan392&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Denuwan392&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+## Certifications & Recognition
+
+- Sri Lanka AI Challenge (SLAIC) 2025 — Finalist
+- Sri Lanka AI Awards (SLAAI) 2025 — Finalist
+- Kaggle × Google GenAI Intensive Program Participant
+- Production-Ready ML Systems Certification
+- Workshop Lead for IoT & Arduino Programs
+- AI Engineer at WIWIS.AI
+
+---
+
+## Open Source Interests
+
+I enjoy contributing to and learning from projects related to:
+
+- AI Infrastructure
+- LLM Engineering
+- Agent Frameworks
+- Open Source Education
+- Developer Productivity Tools
+- AI for Social Impact
+
+---
+
+## Mission
+
+To build intelligent systems that create measurable real-world impact by combining cutting-edge AI research with practical engineering.
+
+My long-term goal is to contribute to the advancement of AI for underrepresented languages, participate in global AI research initiatives, and build technology products that improve everyday life.
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing:
+
+- AI Engineering
+- GenAI Systems
+- Research Collaborations
+- Open Source Projects
+- Startup Opportunities
+- Technical Speaking Engagements
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,langchain,postgres,fastapi,django,docker,git,arduino,raspberrypi,opencv,c,linux" />
+  <a href="mailto:ddenuwan38@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/denuwan-wijesinghe-2423971b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://denuwan392.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge"/>
+  </a>
 </p>
 
-- **AI/ML & GenAI:** LangGraph, LangChain, RAG, Multi-Agent Systems, OpenCV, Scikit-learn, XGBoost, YOLOv8
-- **MLOps & Data:** MLflow, PySpark, Apache Airflow, ChromaDB, PostgreSQL, MySQL
-- **Backend & Web:** FastAPI, Django, REST APIs, Tailwind CSS, JavaScript
-- **IoT & Edge:** Arduino, ESP32, Raspberry Pi, Sensor Integration, Edge AI
-
-### GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denuwan392&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan392&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denuwan392&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Denuwan392&theme=onedark&column=7&no-frame=true" alt="GitHub Trophies" />
-</div>
+### Building intelligent systems that create real-world impact.
 
-### Achievements & Certifications
-- **Finalist**, Sri Lanka AI Challenge (SLAIC) 2025
-- **Finalist**, Sri Lanka AI Awards (SLAAI) 2025
-- **Kaggle x Google GenAI Intensive** Participant (Apr 2025)
-- **Production-Ready ML Systems** Certification (2025)
-- **Workshop Lead**: Conducted IoT/Arduino sessions for 100+ students (2025)
-
-### Mission & Vision
-**Mission:** To engineer robust, scalable AI systems that solve real-world problems and make advanced technology accessible to everyone, regardless of language or location.  
-**Vision:** To become a world-class AI Research Engineer, contributing to the global open-source community and eventually building impactful AI startups that drive technological sovereignty in Sri Lanka.
-
-### Let's Connect
-I am always open to discussing **AI/ML Engineering**, **GenAI Research**, **Open-Source Collaborations**, and **International Opportunities**.
-
-<p align="center">
-  <a href="mailto:ddenuwan38@gmail.com"><img src="https://img.shields.io/badge/Email_Me-ddenuwan38@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/denuwan-wijesinghe-2423971b8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="tel:+94775083549"><img src="https://img.shields.io/badge/Phone-+94_77_508_3549-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" /></a>
-</p>
-
-<div align="center">
-  <sub>Built with passion by Denuwan Wijesinghe | AI Engineer</sub>
 </div>
