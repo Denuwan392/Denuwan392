@@ -8,7 +8,7 @@ Interested in building intelligent systems that combine reasoning, learning, and
 
 - **HomeOS** — Multi-agent system for autonomous task planning and orchestration.
 - **Smart Transit Companion** *(SLAIC 2025 Finalist)* — Multilingual transportation assistant built around retrieval and reasoning.
-- **WEISION** *(SLAAI 2025 Finalist)* — Edge AI system for vision-based produce identification and automated billing.
+- **WEISION** *(Presented at SLAAI 2025 Ai Project of The Year)* — Edge AI system for vision-based produce identification and automated billing.
 - **Speaker Role Classification** — Machine learning approach for understanding organizational roles from meeting conversations.
 
 ---
