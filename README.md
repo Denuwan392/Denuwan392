@@ -6,7 +6,7 @@ Interested in building intelligent systems that combine reasoning, learning, and
 
 ## Selected Work
 
-- **HomeOS** — Multi-agent system for autonomous task planning and orchestration.
+- **HomeOS** *(AgentriX 2026 Finalist)* — Multi-agent system for autonomous task planning and orchestration.
 - **Smart Transit Companion** *(SLAIC 2025 Finalist)* — Multilingual transportation assistant built around retrieval and reasoning.
 - **WEISION** *(Presented at SLAAI 2025 Ai Project of The Year)* — Edge AI system for vision-based produce identification and automated billing.
 - **Speaker Role Classification** — Machine learning approach for understanding organizational roles from meeting conversations.
