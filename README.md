@@ -14,10 +14,18 @@ Interested in building intelligent systems that combine reasoning, learning, and
 > *"Build carefully. Measure honestly. Publish what matters."*
 
 📍 Sri Lanka
+## Featured Projects
 
-<a href="https://github.com/Agentrix-ComES/AGENTRIX26-TEAM39-Neural-Surge">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Agentrix-ComES&repo=AGENTRIX26-TEAM39-Neural-Surge&theme=transparent&hide_border=true"
-    width="100%"
-  />
-</a>
+A selection of engineering work spanning agentic systems, machine learning, symbolic reasoning, speech intelligence, and edge AI.
+
+[![Neural Surge](./assets/featured-projects/01-neural-surge.svg)](https://github.com/Agentrix-ComES/AGENTRIX26-TEAM39-Neural-Surge)
+
+[![Speaker Role Classifier](./assets/featured-projects/02-speaker-role-classifier.svg)](https://github.com/Denuwan392/speaker-role-classifier)
+
+[![Leadership Expert System](./assets/featured-projects/03-leadership-expert-system.svg)](https://github.com/Denuwan392/leadership_expert_system)
+
+[![SpeechInSight](./assets/featured-projects/04-speechinsight.svg)](https://github.com/silham/Speach-Insight)
+
+[![Synexis](./assets/featured-projects/05-synexis.svg)](https://github.com/Denuwan392/SLAIC073_Synexis)
+
+[![CDAKS Hardware Projects](./assets/featured-projects/06-cdaks-hardware.svg)](https://github.com/Denuwan392/cdaks_hardware_projects1)
