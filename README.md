@@ -19,12 +19,29 @@ Interested in building intelligent systems that combine reasoning, learning, and
 
 ## Featured Projects
 
-[![01 AGENTIC AI — Neural Surge](https://img.shields.io/badge/01%20AGENTIC%20AI-Neural%20Surge-2563eb?labelColor=1e293b&style=flat-square&logo=github)](https://github.com/Agentrix-ComES/AGENTRIX26-TEAM39-Neural-Surge)
-[![02 ML / NLP — Speaker Role Classifier](https://img.shields.io/badge/02%20ML%20%2F%20NLP-Speaker%20Role%20Classifier-2563eb?labelColor=1e293b&style=flat-square&logo=github)](https://github.com/Denuwan392/speaker-role-classifier)
-[![03 CLASSICAL AI — Leadership Expert System](https://img.shields.io/badge/03%20CLASSICAL%20AI-Leadership%20Expert%20System-2563eb?labelColor=1e293b&style=flat-square&logo=github)](https://github.com/Denuwan392/leadership_expert_system)
-[![04 APPLIED NLP — SpeechInSight](https://img.shields.io/badge/04%20APPLIED%20NLP-SpeechInSight-2563eb?labelColor=1e293b&style=flat-square&logo=github)](https://github.com/silham/Speach-Insight)
-[![05 COMPETITION AI — Synexis](https://img.shields.io/badge/05%20COMPETITION%20AI-Synexis-2563eb?labelColor=1e293b&style=flat-square&logo=github)](https://github.com/Denuwan392/SLAIC073_Synexis)
-[![06 HARDWARE — CDAKS Hardware Projects](https://img.shields.io/badge/06%20HARDWARE-CDAKS%20Hardware%20Projects-2563eb?labelColor=1e293b&style=flat-square&logo=github)](https://github.com/Denuwan392/cdaks_hardware_projects1)
-[![07 LANGUAGE TECH — Deutsch Recall](https://img.shields.io/badge/07%20LANGUAGE%20TECH-Deutsch%20Recall-2563eb?labelColor=1e293b&style=flat-square&logo=github)](https://github.com/Denuwan392/deutsch-recall)
-[![08 MULTI AGENT — Emergency Response](https://img.shields.io/badge/08%20MULTI%20AGENT-Emergency%20Response%20Optimization-2563eb?labelColor=1e293b&style=flat-square&logo=github)](https://github.com/Denuwan392/multi_agent_emergency_response_optimization)
-[![09 HEALTHCARE AI — Dementia Risk Pipeline](https://img.shields.io/badge/09%20HEALTHCARE%20AI-Dementia%20Risk%20Pipeline-2563eb?labelColor=1e293b&style=flat-square&logo=github)](https://github.com/Denuwan392/dementia-risk-pipeline)
+### [01. Neural Surge](https://github.com/Agentrix-ComES/AGENTRIX26-TEAM39-Neural-Surge)
+![Python](https://img.shields.io/badge/Python-3.12-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green) ![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Framework-orange) ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-purple) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash_Lite-cyan)
+
+### [02. Speaker Role Classifier](https://github.com/Denuwan392/speaker-role-classifier)
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![XGBoost](https://img.shields.io/badge/XGBoost-Multi--Class-green) ![MLflow](https://img.shields.io/badge/MLflow-Experiment_Tracking-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-Demo-red)
+
+### [03. Leadership Expert System](https://github.com/Denuwan392/leadership_expert_system)
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![Prolog](https://img.shields.io/badge/Prolog-SWI--Prolog-green) ![PySwip](https://img.shields.io/badge/PySwip-Bridge-orange) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-red)
+
+### [04. SpeechInSight](https://github.com/silham/Speach-Insight)
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green) ![React](https://img.shields.io/badge/React-19-orange) ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-purple) ![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-Audio_CTC-red)
+
+### [05. NEED TO GO — Synexis](https://github.com/Denuwan392/SLAIC073_Synexis)
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green) ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_Routing-orange) ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-purple) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash_Lite-cyan)
+
+### [06. CDAKS Hardware Projects](https://github.com/Denuwan392/cdaks_hardware_projects1)
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![Arduino](https://img.shields.io/badge/Arduino-Sensors-green) ![C++](https://img.shields.io/badge/C%2B%2B-Embedded-orange) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-YOLO-red)
+
+### [07. Deutsch Recall](https://github.com/Denuwan392/deutsch-recall)
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![NLP](https://img.shields.io/badge/NLP-Language_Learning-green) ![Spaced Repetition](https://img.shields.io/badge/Algorithm-Spaced_Repetition-orange)
+
+### [08. Multi-Agent Emergency Response Optimization](https://github.com/Denuwan392/multi_agent_emergency_response_optimization)
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![Multi Agent](https://img.shields.io/badge/Multi_Agent-Optimization-green) ![Simulation](https://img.shields.io/badge/Simulation-Emergency_Response-orange)
+
+### [09. Dementia Risk Pipeline](https://github.com/Denuwan392/dementia-risk-pipeline)
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![Healthcare](https://img.shields.io/badge/Healthcare-Risk_Prediction-green) ![ML Pipeline](https://img.shields.io/badge/ML_Pipeline-Clinical_Data-orange)
