@@ -19,7 +19,7 @@ Interested in building intelligent systems that combine reasoning, learning, and
 
 ## Featured Projects
 
-[![01. Home OS](https://img.shields.io/badge/01-Neural%20Surge-blue)](https://github.com/Agentrix-ComES/AGENTRIX26-TEAM39-Neural-Surge)<br>
+[![01. Home OS](https://img.shields.io/badge/01-Home%20OS-blue)](https://github.com/Agentrix-ComES/AGENTRIX26-TEAM39-Neural-Surge)<br>
 [![02. Speaker Role Classifier](https://img.shields.io/badge/02-Speaker%20Role%20Classifier-green)](https://github.com/Denuwan392/speaker-role-classifier)<br>
 [![03. Leadership Expert System](https://img.shields.io/badge/03-Leadership%20Expert%20System-orange)](https://github.com/Denuwan392/leadership_expert_system)<br>
 [![04. SpeechInSight](https://img.shields.io/badge/04-SpeechInSight-red)](https://github.com/silham/Speach-Insight)<br>
