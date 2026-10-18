@@ -25,7 +25,7 @@ Interested in building intelligent systems that combine reasoning, learning, and
 | **[HomeOS](https://github.com/Agentrix-ComES/AGENTRIX26-TEAM39-Neural-Surge)** | Multi-agent system for autonomous task planning. | 🏆 AgentriX 2026 Finalist |
 | **[Smart Transit Companion](https://github.com/Denuwan392/SLAIC073_Synexis)** | Multilingual transportation assistant (RAG & reasoning). | 🏆 SLAIC 2025 Finalist |
 | **[Speaker Role Classifier](https://github.com/Denuwan392/speaker-role-classifier)** | ML approach for role understanding in meetings. | 🤝 Embla Software Innovation |
-| **[WEISION / CDAKS Hardware](https://github.com/Denuwan392/cdaks_hardware_projects1)** | Edge AI for vision-based produce identification. | 🏆 SLAAI 2025 Project of the Year |
+| **[WEISION / CDAKS Hardware](https://github.com/Denuwan392/cdaks_hardware_projects1)** | Edge AI for vision-based produce identification. | 🏆 Present at SLAAI 2025 Project of the Year  |
 | **[Leadership Expert System](https://github.com/Denuwan392/leadership_expert_system)** | AI-driven expert system for decision support. | 🛠️ Active |
 | **[SpeechInSight](https://github.com/silham/Speach-Insight)** | Advanced speech processing and insight generation. | 🛠️ Active |
 | **[Emergency Response Optimization](https://github.com/Denuwan392/multi_agent_emergency_response_optimization)** | Multi-agent framework for resource allocation. | 🛠️ Active |
