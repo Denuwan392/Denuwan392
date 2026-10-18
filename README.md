@@ -17,14 +17,54 @@ Interested in building intelligent systems that combine reasoning, learning, and
 
 
 
-## Featured Projects
 
-[![01. Home OS](https://img.shields.io/badge/01-Home%20OS-blue)](https://github.com/Agentrix-ComES/AGENTRIX26-TEAM39-Neural-Surge)<br>
-[![02. Speaker Role Classifier](https://img.shields.io/badge/02-Speaker%20Role%20Classifier-green)](https://github.com/Denuwan392/speaker-role-classifier)<br>
-[![03. Leadership Expert System](https://img.shields.io/badge/03-Leadership%20Expert%20System-orange)](https://github.com/Denuwan392/leadership_expert_system)<br>
-[![04. SpeechInSight](https://img.shields.io/badge/04-SpeechInSight-red)](https://github.com/silham/Speach-Insight)<br>
-[![05. Need To Go](https://img.shields.io/badge/05-Need%20To%20Go-purple)](https://github.com/Denuwan392/SLAIC073_Synexis)<br>
-[![06. CDAKS Hardware](https://img.shields.io/badge/06-CDAKS%20Hardware-yellow)](https://github.com/Denuwan392/cdaks_hardware_projects1)<br>
-[![07. Deutsch Recall](https://img.shields.io/badge/07-Deutsch%20Recall-blueviolet)](https://github.com/Denuwan392/deutsch-recall)<br>
-[![08. Emergency Response Optimization](https://img.shields.io/badge/08-Emergency%20Response%20Optimization-informational)](https://github.com/Denuwan392/multi_agent_emergency_response_optimization)<br>
-[![09. Dementia Risk Pipeline](https://img.shields.io/badge/09-Dementia%20Risk%20Pipeline-success)](https://github.com/Denuwan392/dementia-risk-pipeline)
+## Selected Projects
+
+A curated selection of my work across agentic AI, speech intelligence,
+applied machine learning, and intelligent systems.
+
+### Agentic AI & Intelligent Systems
+
+**[HomeOS](https://github.com/Agentrix-ComES/AGENTRIX26-TEAM39-Neural-Surge)** · *AgentriX 2026 Finalist*
+
+Multi-agent system for autonomous task planning and orchestration.
+
+**[Leadership Expert System](https://github.com/Denuwan392/leadership_expert_system)**
+
+Knowledge-based system for reasoning about leadership behavior.
+
+**[Emergency Response Optimization](https://github.com/Denuwan392/multi_agent_emergency_response_optimization)**
+
+Multi-agent approach to emergency response planning and resource coordination.
+
+### Speech & Language Intelligence
+
+**[Speaker Role Classifier](https://github.com/Denuwan392/speaker-role-classifier)**
+
+Machine learning approach to identifying organizational roles from meeting conversations, developed in collaboration with Embla Software Innovation (Pvt) Ltd.
+
+**[SpeechInSight](https://github.com/silham/Speach-Insight)**
+
+Speech intelligence project focused on transcription and meeting conversation analysis.
+
+### Applied AI & Other Projects
+
+**[Smart Transit Companion](https://github.com/Denuwan392/SLAIC073_Synexis)**
+
+Multilingual transportation assistant built around retrieval and reasoning.
+
+**[WEISION](https://github.com/Denuwan392/cdaks_hardware_projects1)**
+
+Edge AI for vision-based produce identification and automated billing.
+
+**[Deutsch Recall](https://github.com/Denuwan392/deutsch-recall)**
+
+A language-learning project focused on German vocabulary recall.
+
+**[CDAKS Hardware Projects](https://github.com/Denuwan392/cdaks_hardware_projects1)**
+
+Hardware and embedded-systems projects.
+
+**[Dementia Risk Pipeline](https://github.com/Denuwan392/dementia-risk-pipeline)**
+
+Machine learning pipeline for dementia risk-related data analysis.
