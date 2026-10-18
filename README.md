@@ -18,7 +18,7 @@ Interested in building intelligent systems that combine reasoning, learning, and
 
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Status / Note |
 | :--- | :--- | :--- |
@@ -32,4 +32,4 @@ Interested in building intelligent systems that combine reasoning, learning, and
 | **[Dementia Risk Pipeline](https://github.com/Denuwan392/dementia-risk-pipeline)** | ML pipeline for early dementia risk assessment. | 🛠️ Active |
 | **[Deutsch Recall](https://github.com/Denuwan392/deutsch-recall)** | Interactive spaced-repetition language learning app. | 🛠️ Active |
 
-> *💡 Click on any project name to explore the source code and documentation.*
+> * Click on any project name to explore the source code and documentation.*
